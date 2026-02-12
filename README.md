@@ -11,4 +11,4 @@
 
 ### 📄 开源许可
 ---
-根据 [MIT License](https://mit-license.org/) 许可进行开源。
+本项目遵循 **[MIT License](https://mit-license.org/)**。
